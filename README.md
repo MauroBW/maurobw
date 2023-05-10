@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **QA Engineer @ DecemberLabs**
 
-- 🌱 I’m currently learning **python for api scrapping, performance testing with JS/K6.**
+- 🌱 Learning **Mobile Native Automation with XCUITest/Swift and Espresso/Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
