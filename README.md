@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **QA Engineer @ DecemberLabs**
 
-- 🌱 Learning **Mobile Native Automation with XCUITest/Swift and Espresso/Kotlin**
+- 🌱 Learning **Mobile Native UI Automation with XCUITest/Swift and Espresso/Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
