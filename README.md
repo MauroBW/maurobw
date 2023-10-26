@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauro Botti</h1>
 <h3 align="center">A passionate developer from Uruguay</h3>
 
-- 🔭 I’m currently working as **QA Engineer @ DecemberLabs**
+- 🔭 I’m currently working as **QA Engineer @ Qubika**
 
-- 🌱 Learning **Mobile Native UI Automation with XCUITest/Swift and Espresso/Kotlin**
+- 🌱 Learning **Playwright/Typescript for Web Automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
