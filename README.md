@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauro Botti</h1>
 <h3 align="center">A passionate developer from Uruguay</h3>
 
-- 🔭 I’m currently working as **QA Engineer @ Qubika**
+- 🔭 I’m currently working as **Expert QA Engineer 1 @ Qubika**
 
-- 🌱 Learning **Playwright/Typescript for Web Automation**
+- 🌱 Learning **Python / FastAPI for personal Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
